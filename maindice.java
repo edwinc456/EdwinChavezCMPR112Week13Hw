@@ -15,6 +15,6 @@ public static void main(String[]args)
 	
 	number.trippledicewithhistory();
 	copy2.trippledicewithhistory();
-	System.out.println(number.equals(copy));
+	System.out.println(number.equals(copy2));
 }
 }
