@@ -18,3 +18,5 @@ public static void main(String[]args)
 	System.out.println(number.equals(copy2));
 }
 }
+
+// Please overide toString to print values form array
